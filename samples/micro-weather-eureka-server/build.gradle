@@ -3,7 +3,7 @@ buildscript {
 
 	// ext 用于定义动态属性
 	ext {
-		springBootVersion = '2.0.0.M3'
+		springBootVersion = '2.0.0.M7'
 	}
 
 	// 使用了Maven的中央仓库及Spring自己的仓库（也可以指定其他仓库）
@@ -44,7 +44,7 @@ repositories {
 }
 
 ext {
-	springCloudVersion = 'Finchley.M2'
+	springCloudVersion = 'Finchley.M5'
 }
 
 dependencies {
