@@ -3,7 +3,7 @@ buildscript {
 
 	// ext 用于定义动态属性
 	ext {
-		springBootVersion = '2.0.0.M7'
+		springBootVersion = '1.5.9.RELEASE'
 	}
 
 	// 使用了Maven的中央仓库及Spring自己的仓库（也可以指定其他仓库）
@@ -44,7 +44,7 @@ repositories {
 }
 
 ext {
-	springCloudVersion = 'Finchley.M5'
+	springCloudVersion = 'Dalston.SR5'
 }
 
 dependencies {
@@ -59,7 +59,7 @@ dependencies {
 	compile('org.springframework.cloud:spring-cloud-starter-bus-amqp')
 	
 	// 添加 Spring Boot Actuator 依赖
-	compile('org.springframework.boot:spring-boot-starter-actuator')
+	//compile('org.springframework.boot:spring-boot-starter-actuator')
 	
 	// 该依赖用于测试阶段
 	testCompile('org.springframework.boot:spring-boot-starter-test')

@@ -6,7 +6,7 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
 /**
- * Config Controller.
+ * Version Controller.
  * 
  * @since 1.0.0 2017年12月31日
  * @author <a href="https://waylau.com">Way Lau</a> 
@@ -15,7 +15,8 @@ import org.springframework.web.bind.annotation.RestController;
 @RestController
 public class VersionController {
  
-    private final String auther = "waylau.com";
+	@Value("${auther}")
+    private String auther;
 	
 	@Value("${version}")
     private String version;
