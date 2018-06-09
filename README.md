@@ -10,6 +10,7 @@
 
 本书主要面向以 Spring 为核心的 Java EE 开发者，以及对 Spring Cloud 和微服务开发感兴趣的读者。
 
+![](images/spring-cloud-logo.jpg)
 
 ## 写作背景
 
@@ -87,7 +88,13 @@
 
 ## 如何获取本书
 
-实体店及各大网店有售。据我所可以在各大网站接受预订。
+实体店及各大网店有售。据我所知有如下网站供应：
+
+* [京东](https://search.jd.com/Search?keyword=%E6%9F%B3%E4%BC%9F%E5%8D%AB%20Spring%20Cloud%20%E5%BE%AE%E6%9C%8D%E5%8A%A1%E6%9E%B6%E6%9E%84%E5%BC%80%E5%8F%91%E5%AE%9E%E6%88%98&enc=utf-8&wq=%E6%9F%B3%E4%BC%9F%E5%8D%AB%20Spring%20Cloud%20%E5%BE%AE%E6%9C%8D%E5%8A%A1%E6%9E%B6%E6%9E%84%E5%BC%80%E5%8F%91%E5%AE%9E%E6%88%98&pvid=640318b62c6b4eea88a5c93038d76f10)
+* [1号店](http://search.yhd.com/c0-0/k%25E6%259F%25B3%25E4%25BC%259F%25E5%258D%25AB%2520Spring%2520Cloud%2520%25E5%25BE%25AE%25E6%259C%258D%25E5%258A%25A1%25E6%259E%25B6%25E6%259E%2584%25E5%25BC%2580%25E5%258F%2591%25E5%25AE%259E%25E6%2588%2598/)
+* [淘宝](https://s.taobao.com/search?q=%E6%9F%B3%E4%BC%9F%E5%8D%AB+Spring+Cloud+%E5%BE%AE%E6%9C%8D%E5%8A%A1%E6%9E%B6%E6%9E%84%E5%BC%80%E5%8F%91%E5%AE%9E%E6%88%98&imgfile=&commend=all&ssid=s5-e&search_type=item&sourceId=tb.index&spm=a21bo.2017.201856-taobao-item.1&ie=utf8&initiative_id=tbindexz_20170306)
+* [当当](http://search.dangdang.com/?key=%C1%F8%CE%B0%CE%C0%20Spring%20Cloud%20%CE%A2%B7%FE%CE%F1%BC%DC%B9%B9%BF%AA%B7%A2%CA%B5%D5%BD&act=input)
+* [亚马逊](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=%E4%BA%9A%E9%A9%AC%E9%80%8A%E7%BD%91%E7%AB%99&url=search-alias%3Daps&field-keywords=%E6%9F%B3%E4%BC%9F%E5%8D%AB+Spring+Cloud+%E5%BE%AE%E6%9C%8D%E5%8A%A1%E6%9E%B6%E6%9E%84%E5%BC%80%E5%8F%91%E5%AE%9E%E6%88%98)
 
 
 也可以直接关注我博客（<https://waylau.com>）或者我的开源书（<https://waylau.com/books>）。
