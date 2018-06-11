@@ -74,7 +74,7 @@
 
 本书如有勘误，会在<https://github.com/waylau/spring-cloud-microservices-development/issues>上进行发布。由于笔者能力有限，时间仓促，难免错漏，欢迎读者批评指正。
 
-您也可以上[豆瓣](https://book.douban.com/subject/30192752/)给老卫打Call。
+您也可以上[豆瓣](https://book.douban.com/subject/30245248/)给老卫打Call。
 
 ## 联系作者
 
